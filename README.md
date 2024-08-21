@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @theshovan
+- 👋 Hi, I’m Shovan,
 - 👀 I’m interested in face new challenges
 - 🌱 I’m currently learning cse(aiml)
 - 💞️ I’m looking to collaborate on 
