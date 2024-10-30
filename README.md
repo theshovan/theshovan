@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shovan,
 - 👀 I’m interested in faces new challenges
-- 🌱 I’m currently learning cse(aiml)
+- 🌱 I’m currently learning CSE(AIML)
 - 💞️ I’m looking to collaborate on any tech company,
 - 📫 How to reach me: www.linkedin.com/in/shovan-bera 
 - 😄 Pronouns: He/him,
