@@ -1,12 +1,46 @@
-- 👋 Hi, I’m Shovan,
-- 👀 I’m interested in faces new challenges
-- 🌱 I’m currently learning CSE(AIML)
-- 💞️ I’m looking to collaborate on any tech company,
-- 📫 How to reach me: www.linkedin.com/in/shovan-bera 
-- 😄 Pronouns: He/him,
-- ⚡ Fun fact: looking forward to new experience...
+# Hi, I'm Shovan 👋
 
-<!---
-theshovan/theshovan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a final-year B.Tech CSE student specializing in Artificial Intelligence and Machine Learning.  
+I enjoy building practical software and AI-driven applications that solve real-world problems while continuously improving my development and problem-solving skills.
+
+---
+
+## 🚀 What I'm Doing
+
+- Building AI/ML and full-stack development projects
+- Improving deployment, API integration, and model optimization skills
+- Preparing for software development and AI/ML engineering roles
+
+---
+
+## 📌 Projects
+
+### 🔹 Video Summarization System
+An AI-based application that generates concise summaries from lengthy video content.
+
+---
+
+## 🛠️ Tech Stack
+
+`Python` `JavaScript` `Node.js` `Git` `GitHub` `Whisper APIs`
+
+---
+
+## 📚 Currently Learning
+
+- Advanced backend development
+- System design fundamentals
+- Real-world AI application development
+
+---
+
+## 🎯 Interests
+
+Artificial Intelligence • Backend Development • Software Engineering
+
+---
+
+## 📫 Contact
+
+- LinkedIn: [Add Your LinkedIn]
+- Resume: [Add Your Resume Link]
