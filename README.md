@@ -1,11 +1,11 @@
-# Hi, I'm Shovan 👋
+# Hi, I'm Shovan 
 
 I'm a final-year B.Tech CSE student specializing in Artificial Intelligence and Machine Learning.  
 I enjoy building practical software and AI-driven applications that solve real-world problems while continuously improving my development and problem-solving skills.
 
 ---
 
-## 🚀 What I'm Doing
+##  What I'm Doing
 
 - Building AI/ML and full-stack development projects
 - Improving deployment, API integration, and model optimization skills
@@ -13,20 +13,20 @@ I enjoy building practical software and AI-driven applications that solve real-w
 
 ---
 
-## 📌 Projects
+##  Projects
 
 ### 🔹 Video Summarization System
 An AI-based application that generates concise summaries from lengthy video content.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 `Python` `JavaScript` `Node.js` `Git` `GitHub` `Whisper APIs`
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 - Advanced backend development
 - System design fundamentals
@@ -34,7 +34,7 @@ An AI-based application that generates concise summaries from lengthy video cont
 
 ---
 
-## 🎯 Interests
+##  Interests
 
 Artificial Intelligence • Backend Development • Software Engineering
 
