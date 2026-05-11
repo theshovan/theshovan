@@ -40,7 +40,9 @@ Artificial Intelligence • Backend Development • Software Engineering
 
 ---
 
-##  Contact
+## Contact
 
-- [LinkedIn][www.linkedin.com/in/shovanbera]
-- Resume: [Add Your Resume Link]
+[LinkedIn](www.linkedin.com/in/shovanbera)
+
+## Resume
+[Click Here]()
