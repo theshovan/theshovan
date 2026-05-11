@@ -40,7 +40,7 @@ Artificial Intelligence • Backend Development • Software Engineering
 
 ---
 
-## 📫 Contact
+##  Contact
 
 - LinkedIn: [Add Your LinkedIn]
 - Resume: [Add Your Resume Link]
