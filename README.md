@@ -22,7 +22,7 @@ An AI-based application that generates concise summaries from lengthy video cont
 
 ##  Tech Stack
 
-`Python` `JavaScript` `Node.js` `Git` `GitHub` `Whisper APIs`
+`Python` `JavaScript` `Node.js` `Git` `GitHub` `Whisper APIs` `MySQL`
 
 ---
 
