@@ -45,4 +45,4 @@ Artificial Intelligence • Backend Development • Software Engineering
 [LinkedIn](https://www.linkedin.com/in/shovanbera)
 
 ## Resume
-[Click Here]()
+[Click Here](https://github.com/theshovan/resume/blob/main/Shovan_Bera_Resume.pdf)
