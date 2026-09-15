@@ -1,6 +1,6 @@
 # Hi, I'm Shovan 
 
-I'm a final-year B.Tech CSE student specializing in Artificial Intelligence and Machine Learning.  
+I'm a B.Tech CSE student specializing in Artificial Intelligence and Machine Learning.  
 I enjoy building practical software and AI-driven applications that solve real-world problems while continuously improving my development and problem-solving skills.
 
 ---
