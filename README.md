@@ -15,7 +15,8 @@ I enjoy building practical software and AI-driven applications that solve real-w
 
 ##  Projects
 
-### 🔹 Video Summarization System
+### 🔹 Video Summarization System  |  [Demo](https://video-summarization-flame.vercel.app/)  |  [File](https://github.com/theshovan/video-summarization)
+
 An AI-based application that generates concise summaries from lengthy video content.
 
 ---
